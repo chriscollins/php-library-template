@@ -8,7 +8,7 @@
             "name": "Chris Collins",
             "email": "chrisjamescollins@gmail.com"
         }
-    ]
+    ],
     "require": {
         "php": ">=5.3.0"
     },
